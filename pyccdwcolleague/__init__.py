@@ -1,3 +1,3 @@
-from .colleague import ColleagueError
-from .colleague import ColleagueConfigurationError
-from .colleague import ColleagueConnection
+from .pyccdwcolleague import ColleagueError
+from .pyccdwcolleague import ColleagueConfigurationError
+from .pyccdwcolleague import ColleagueConnection
